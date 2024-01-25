@@ -4,3 +4,10 @@ sgbgbbg
 sgbgbgbgb
 sgbfbgfbfgbgbd
 }
+
+box 2 {
+sbdbtbbtbtbsb
+sththththsth
+shthhthsthsht
+shshsththtsh
+}
